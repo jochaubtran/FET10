@@ -1,0 +1,9 @@
+mkdir folderName (create folder)
+rmdir folderName (remove folder)
+pwd (print current directory)
+cd change directory
+cd .. go back one directory
+ls list
+touch fileName.txt (creat a file)
+rm fileName.txt (remove a file)
+mv oldName newName (rename)
