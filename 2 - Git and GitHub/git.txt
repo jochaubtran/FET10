@@ -1,0 +1,14 @@
+git config --global user.name "username"
+git config user.name
+
+git config --global user.email "email"
+git config user.email
+
+git init
+git status
+git add . (staging area)
+git commit -m "Description" (create a commit)
+
+git branch –a (list all branches)
+git branch branchName (creat a git branch)
+git switch branchName (switch to a branch)
